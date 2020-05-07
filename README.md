@@ -1,5 +1,6 @@
 # leikverk5
 
+Myndbönd & WebGL build fynnuru hér:
 https://huginn-muninn.github.io/leikverk5/
 
 ![quiz1.png](https://github.com/Huginn-Muninn/leikverk5/blob/master/quiz1.png)
